@@ -19,31 +19,5 @@ View Portfolio - Calls display_portfolio().
 
 Exit - Terminates the program.
 
-Output : 
---> Stock Portfolio Tracker
-1. Add Stock
-2. Remove Stock
-3. View Portfolio
-4. Exit
-Enter your choice: 1
-Enter stock symbol: AAPL
-Enter number of shares: 10
-Added 10 shares of AAPL.
 
-Stock Portfolio Tracker
-1. Add Stock
-2. Remove Stock
-3. View Portfolio
-4. Exit
-Enter your choice: 3
-
-+-------+--------+------------+----------------+
-| Stock | Shares | Price (USD) | Total Value (USD) |
-
-+-------+--------+------------+----------------+
-
-| AAPL  |   10   |  180.25    |    1802.50    |
-+-------+--------+------------+----------------+
-
-Total Portfolio Value: $1802.50
 
