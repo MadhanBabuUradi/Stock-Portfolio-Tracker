@@ -20,21 +20,6 @@ Alpha Vantage API – real-time stock prices
 
 python portfolio.py
 
-# You will see an interactive menu:
-Stock Portfolio Tracker
-1. Add Stock
-2. Remove Stock
-3. View Portfolio
-4. Exit
-
-# 💡 Example Output
-+--------+--------+-------------+-------------------+
-| Stock  | Shares | Price (USD) | Total Value (USD) |
-+--------+--------+-------------+-------------------+
-|  AAPL  |   10   |   181.45    |     1814.50       |
-|  TSLA  |   5    |   253.22    |     1266.10       |
-+--------+--------+-------------+-------------------+
-Total Portfolio Value: $3080.60
 
 # 🤝 Contributions
 
