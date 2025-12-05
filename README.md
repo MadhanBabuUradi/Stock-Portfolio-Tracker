@@ -1,3 +1,9 @@
+A clean, modular, production-ready Python application to track stock holdings, real-time prices, and portfolio performance.
+
+<p align="center"> <img src="https://img.shields.io/badge/Language-Python%203.10+-blue" /> <img src="https://img.shields.io/badge/Framework-None%20(CLI)-brightgreen" /> <img src="https://img.shields.io/badge/API-AlphaVantage-orange" /> <img src="https://img.shields.io/badge/License-MIT-yellow" /> <img src="https://img.shields.io/badge/Status-Active-success" /> </p>
+
+
+
 # 📊 Stock Portfolio Tracker (Python)
 
 A simple and interactive command-line Stock Portfolio Tracker built with Python.
